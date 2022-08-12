@@ -7,6 +7,7 @@ thumbnail: ''
 metaDescription: Dev Version Of Helpful GUI. Game Ver: 1.19.2
 ---
 # Helpful Gui
-Made For MC Version 1.19.2
+Made For MC Version 1.19.2 <br>
+Github Repo: <a href='https://github.com/maxherelovescode/HelpfulGui'>https://github.com/maxherelovescode/HelpfulGui </a>
 ## Downloads
 ### Coming Soon
