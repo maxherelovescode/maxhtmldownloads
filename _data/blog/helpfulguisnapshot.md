@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /plugins/spigot/helpfulgui/snapshot
+path: /plugins/spigot/helpfulguisnapshot
 date: 2022-08-12
 title: HelpfulGUI-Snapshot
 thumbnail: ''

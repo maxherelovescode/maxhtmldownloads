@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /plugins/spigot/teleportbow/1.1
+path: /plugins/spigot/teleportbow1.1
 date: 2022-08-12
 title: TeleportBow1.1
 thumbnail: ''
